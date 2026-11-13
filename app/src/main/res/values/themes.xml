@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TaskReminder" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ground</item>
+        <item name="android:colorAccent">@color/accent</item>
+    </style>
+
+    <style name="Theme.TaskReminder.Alert" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/alert_bg</item>
+        <item name="android:colorAccent">@color/accent</item>
+    </style>
+</resources>

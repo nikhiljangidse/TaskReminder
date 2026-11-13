@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#C2410C</color>
+    <color name="ground">#F6F5F2</color>
+    <color name="alert_bg">#121215</color>
+    <color name="ic_launcher_background">#C2410C</color>
+</resources>
